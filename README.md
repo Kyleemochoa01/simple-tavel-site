@@ -1,1 +1,1 @@
-# simple-tavel-site
+# simple-travel-site
